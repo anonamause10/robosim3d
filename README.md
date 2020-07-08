@@ -1,2 +1,1 @@
-# robosim3d
-Library for interacting with my RoboSim app
+Library for interacting with my RoboSim app, https://github.com/anonamause10/RoboSim/wiki
